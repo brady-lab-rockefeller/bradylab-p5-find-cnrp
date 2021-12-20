@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/440225959.svg)](https://zenodo.org/badge/latestdoi/440225959)
+
 # Description
 
 This Perl 5 script was written to quickly scan GenBank files created by
