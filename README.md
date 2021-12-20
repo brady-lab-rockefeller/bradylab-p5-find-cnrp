@@ -1,4 +1,4 @@
-#Description
+# Description
 
 This Perl 5 script was written to quickly scan GenBank files created by
 antiSMASH v5 for non-ribosomal peptide synthase (NRPS) type biosynthetic gene
